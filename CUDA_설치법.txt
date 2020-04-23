@@ -1,0 +1,22 @@
+CUDA 설치법
+
+1. CUDA Toolkit 10.2 를 해당 플랫폼에 맞게 설치한다.
+
+2. cuDNN을 다운로드 받는다.
+   https://developer.nvidia.com/rdp/cudnn-download 로 가서 받는데 가입이 필요하다.
+   
+   10.2의 경우 cuDNN v7.6.5인데 운영체제 버전에 맞는것을 받아야 한다.
+   
+   [나의 컴퓨터 CUDA 경로]
+   C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+
+
+   설치된 CUDA Toolkit 폴더에 cuDNN을 압축을 푼 파일을 덮어 버린다.
+
+
+3. NVIDIA 제어판을 이용하여 동작을 확인한다.
+
+
+
+
+
