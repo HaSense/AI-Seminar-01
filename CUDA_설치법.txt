@@ -16,7 +16,15 @@ CUDA 설치법
 
 3. NVIDIA 제어판을 이용하여 동작을 확인한다.
 
+----------------------------------------------------------------
+[GPU 메모리의 90%만 사용]
 
+import keras
+import tensorflow as tf
+
+config = tf.ConfigProto()
+config.gpu_options.per_process_gpu_memory_fraction = 0.9
+keras.backend.tensorflow_backend.set_session(tf.Session(config=config))
 
 
 
