@@ -1,0 +1,9 @@
+컨볼루션, 이미지 머신비전 참고자료
+
+1. CNN Layer 참고자료
+   https://ichi.pro/ko/choecheomdan-keonbol-lusyeon-singyeongmang-cnn-seolmyeong-densenet-75969814801645
+
+2. 라온피플(비전처리 기업) 머신러닝 기술블로그 
+    https://blog.naver.com/laonple/220587920012
+
+3. 
